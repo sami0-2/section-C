@@ -1,4 +1,4 @@
-# String Method lower()
+# String Method upper()
 
 The upper() method in Python is a built-in string method that converts all lowercase letters in a string to uppercase.
 
